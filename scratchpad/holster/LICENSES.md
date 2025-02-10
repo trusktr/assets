@@ -1,0 +1,2 @@
+- `brown_photostudio_02.jpg` - Creative Commons (CC0), free from https://polyhaven.com/a/brown_photostudio_02
+- `Holster3.glb`, `Holster5.blend`, and `holster-modeling-preview.mp4` are proprietary, not for use without permission.

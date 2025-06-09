@@ -1,0 +1,163 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Mara:face2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_face_271432.jpg
+map_Kd FV2_Yuna_01_face_271432.jpg
+map_bump FV2_Yuna_01_face_normal_271434.jpg
+map_bump FV2_Yuna_01_face_normal_NRM_15.jpg
+newmtl FV2_Open_Toe_Pump:dummySG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka transparency_13771.png
+map_Kd transparency_13771.png
+map_d transparency_13771.png
+newmtl FV2_Open_Toe_Pump:HEELSG1SG1
+Ka 0.181505 0.168396 0.151254
+Kd 0.705882 0.654902 0.588235
+Ks 0.315000 0.315000 0.315000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl FV2_Open_Toe_Pump:W_Shoes_skinSG1SG1SG1
+Ka 0.181505 0.168396 0.151254
+Kd 0.705882 0.654902 0.588235
+Ks 0.315000 0.315000 0.315000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl FV2_Open_Toe_Pump:W_Shoes_skinSG1SG1SG1
+Ka 0.181505 0.168396 0.151254
+Kd 0.705882 0.654902 0.588235
+Ks 0.315000 0.315000 0.315000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl hair_defaultMat3
+Ka 0.255115 0.227889 0.207722
+Kd 0.992157 0.886275 0.807843
+Ks 0.234000 0.234000 0.234000
+Ns 64.000000
+illum 2
+d 0.850000
+map_Ka hair_diffuse_grey_2K.jpg
+map_Kd hair_diffuse_grey_2K.jpg
+map_bump hair_normal_2K.jpg
+map_d hair_alpha_2K.jpg
+map_bump hair_normal_2K_NRM_30.jpg
+newmtl Mara:eye2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.693000 0.693000 0.693000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_eye.jpg
+map_Kd FV2_Yuna_01_eye.jpg
+map_bump FV2_Yuna_01_eye_normal.jpg
+map_bump FV2_Yuna_01_eye_normal_NRM_40.jpg
+newmtl Mara:tooth2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_tooth.jpg
+map_Kd FV2_Yuna_01_tooth.jpg
+map_bump FV2_Yuna_01_tooth_normal.jpg
+map_bump FV2_Yuna_01_tooth_normal_NRM_100.jpg
+newmtl Mara:body3
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_body_Covered.jpg
+map_Kd FV2_Yuna_01_body_Covered.jpg
+map_bump FV2_Yuna_01_body_normal.jpg
+map_bump FV2_Yuna_01_body_normal_NRM_15.jpg
+newmtl Mara:arm2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_arm.jpg
+map_Kd FV2_Yuna_01_arm.jpg
+map_bump FV2_Yuna_01_arms_normal.jpg
+map_bump FV2_Yuna_01_arms_normal_NRM_15.jpg
+newmtl Mara:eye2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.693000 0.693000 0.693000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_eye.jpg
+map_Kd FV2_Yuna_01_eye.jpg
+map_bump FV2_Yuna_01_eye_normal.jpg
+map_bump FV2_Yuna_01_eye_normal_NRM_40.jpg
+newmtl Mara:skin_14:skin_13:skin_11:skin_10:pose:pose:eyelash1
+Ka 0.051426 0.046385 0.046385
+Kd 0.200000 0.180392 0.180392
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_eyelash.jpg
+map_Kd FV2_Yuna_01_eyelash.jpg
+newmtl Mara:skin_14:skin_13:skin_11:skin_10:pose:pose:eyelash1
+Ka 0.051426 0.046385 0.046385
+Kd 0.200000 0.180392 0.180392
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_eyelash.jpg
+map_Kd FV2_Yuna_01_eyelash.jpg
+newmtl Mara:leg2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka FV2_Yuna_01_leg.jpg
+map_Kd FV2_Yuna_01_leg.jpg
+map_bump FV2_Yuna_01_leg_normal.jpg
+map_bump FV2_Yuna_01_leg_normal_NRM_15.jpg
+newmtl FV2_Open_Toe_Pump:dummySG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka transparency_13771.png
+map_Kd transparency_13771.png
+map_d transparency_13771.png
+newmtl FV2_Open_Toe_Pump:HEELSG1SG1
+Ka 0.181505 0.168396 0.151254
+Kd 0.705882 0.654902 0.588235
+Ks 0.315000 0.315000 0.315000
+Ns 128.000000
+illum 2
+d 1.000000
+newmtl Dummy_SHD
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 0.000000
